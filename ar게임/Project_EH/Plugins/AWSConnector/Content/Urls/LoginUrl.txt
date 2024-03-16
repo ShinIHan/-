@@ -1,0 +1,1 @@
+https://metacampus.auth.ap-northeast-2.amazoncognito.com/login?client_id=249pi4os4vfl4sr22onioro21v&response_type=code&scope=aws.cognito.signin.user.admin+email+meta.campus.api/access+openid+phone+profile&redirect_uri=https://65na64zln3.execute-api.ap-northeast-2.amazonaws.com/MetaCampus/getsigninresult

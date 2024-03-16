@@ -1,0 +1,1 @@
+https://whaletek.auth.ap-northeast-2.amazoncognito.com/login?client_id=20jkk9gcca1r75k628vcjgcjr4&response_type=code&scope=aws.cognito.signin.user.admin+email+openid+phone+profile+whale.tek.api/access&redirect_uri=https://0m5g00obhd.execute-api.ap-northeast-2.amazonaws.com/WhaleTek/getsigninresult

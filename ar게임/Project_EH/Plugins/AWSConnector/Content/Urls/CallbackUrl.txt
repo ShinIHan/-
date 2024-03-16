@@ -1,0 +1,1 @@
+https://65na64zln3.execute-api.ap-northeast-2.amazonaws.com/MetaCampus/getsigninresult
